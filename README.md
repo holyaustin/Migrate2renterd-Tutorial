@@ -1,4 +1,4 @@
-## Migrate data from S3 bucket to Sia renterd easily
+# Migrate data from S3 bucket to Sia renterd easily
 
 #### Migrate2renterd TypeScript and Next.js for Effortless File Migration from AWS Bucket to Sia via renterd
 
@@ -8,7 +8,7 @@ In this tutorial, we will explore how to build a web application using Next.js a
 
 ## Demo
 
-We are going to be building something like this [SiaMiuve](https://Migrate2renterd.vercel.app/) but won't be going into the entire user interface and user experience and that's because we're trying to keep this tutorial as short as possible. I recommend you go through the app before continuing the tutorial, it's totally worth it!
+We are going to be building something like this [Migrate2renterd](https://Migrate2renterd.vercel.app/) but won't be going into the entire user interface and user experience and that's because we're trying to keep this tutorial as short as possible. I recommend you go through the app before continuing the tutorial, it's totally worth it!
 
 ## What is Sia?
 
